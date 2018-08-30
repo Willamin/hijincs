@@ -8,7 +8,6 @@ module Hijincs
       - HIJC
     --------
     =  HIDCK
-
   P
 
   def self.calculate
